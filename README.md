@@ -1,2 +1,2 @@
-# DeepCNNClassifier
-DeepCNNClassifier
+# NewsArticlesSorting
+NewsArticlesSorting
