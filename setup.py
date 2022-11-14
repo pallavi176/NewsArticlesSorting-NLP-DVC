@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "DeepCNNClassifier"
+REPO_NAME = "NewsArticlesSorting-NLP-DVC"
 AUTHOR_USER_NAME = "pallavi176"
-SRC_REPO = "deepClassifier"
+SRC_REPO = "NewsArticlesSorting"
 AUTHOR_EMAIL = "saxena.pallavi7211@gmail.com"
 
 setuptools.setup(

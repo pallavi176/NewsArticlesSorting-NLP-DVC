@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format = '[%(asctime)s]: %(message)s')
 
 #print(Path("x/y/z.txt"))
-package_name = "deepClassifier"
+package_name = "NewsArticlesSorting"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
