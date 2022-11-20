@@ -1,5 +1,5 @@
-# DeepCNNClassifier
-DeepCNNClassifier
+# NewsArticlesSorting
+NewsArticlesSorting
 
 ## STEPS -
 
