@@ -1,9 +1,15 @@
 dvc
 pandas
-notebook
 numpy
 matplotlib
 seaborn
+torch
+tensorboard
+nltk
+spacy
+Flask
+sklearn
+unidecode
 python-box==6.0.2
 pyYAML
 tqdm
